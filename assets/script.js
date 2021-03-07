@@ -2,7 +2,7 @@ var canvas, ctx, gameControl, gameActive;
 // render X times per second
 var x = 8;
 
-const CANVAS_BORDER_COLOUR = 'white';
+const CANVAS_BORDER_COLOUR = 'white'; 
 const CANVAS_BACKGROUND_COLOUR = "black";
 const SNAKE_COLOUR = 'lightblue';
 const SNAKE_BORDER_COLOUR = 'darkblue';
