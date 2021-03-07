@@ -19,7 +19,7 @@ window.onload = function() {
 
 /* function to start the game */ 
 function startGame(x) {
-  // setting gameActive flag to true
+  // setting gameActive flag to true 
   gameActive = true;
   document.getElementById("game-status").innerHTML = "<small>Game Started</small>";
   document.getElementById("game-score").innerHTML = "";
