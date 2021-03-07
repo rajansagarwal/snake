@@ -17,7 +17,7 @@ window.onload = function() {
   gameControl = startGame(x);
 };
 
-/* function to start the game */
+/* function to start the game */ 
 function startGame(x) {
   // setting gameActive flag to true
   gameActive = true;
